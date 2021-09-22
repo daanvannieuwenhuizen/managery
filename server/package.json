@@ -1,0 +1,7 @@
+{
+  "name": "substitute-server",
+  "version": "1.0.0",
+  "main": "server.ts",
+  "license": "gpl-3.0",
+  "private": true
+}
